@@ -1,0 +1,20 @@
+[
+  {
+    "username": "Cai Parry-Jones",
+    "slug": "why-are-there-so-many-databases-87d334c5dce6",
+    "title": "Why Are There So Many Databases?",
+    "body": "When I first started working in the data industry, as a data analyst, I really had no idea why there were so many different databases out there. After all, I just need somewhere to store and query my data, right? What difference does it make if I fetch the data from this database or that?\nHowever, when I started getting involved on the engineering side of things, I realised database choice can be a pretty big deal. On more than one occasion I have seen people lose their jobs because they picked the wrong one. Sometimes, all those unfortunate engineers needed was quick pocket guide to… guide them in the right direction.\nThis article aims to be that guide, by giving a quick explainer for all modern database architectures (as of writing), list real databases you can play with, and give scenarios for when to use them (and when to absolutely not!) My writing is based on my own experience and is somewhat opinionated, so I’ll be disappointed if there aren’t at least three people mad at me in the comments."
+  },
+  {
+    "username": "Mario Bittencourt",
+    "slug": "can-code-duplication-be-a-good-thing-39e0e43c0448",
+    "title": "Can Code Duplication Be a Good Thing?",
+    "body": "DRY (don´t repeat yourself), is a very popular recommendation found on development best practices. The issue is that without proper bounds, this gets overused and has the potential to create more problems than the ones it is supposed to prevent.\nIn this article, I will revisit the motivations for DRY and establish some guidelines on when it is ok to duplicate code. Also, I would like to propose a minimum set of practices if you decide to have a shared component after all."
+  },
+  {
+    "username": "Marina Wyss",
+    "slug": "why-your-machine-learning-projects-wont-land-you-a-job-56d9658d310c",
+    "title": "Why Your Machine Learning Projects Won’t Land You a Job",
+    "body": "Want to know what separates entry-level machine learning projects from the systems powering companies like Google and Amazon? The gap might seem impossibly wide, but there’s actually a clear progression most ML practitioners follow.\nToday I’m mapping out the five levels of machine learning projects that separate complete beginners from industry leaders. By the end of this post, you’ll understand exactly where you are on this journey, and what specific skills you need to reach the next level.\nMany aspiring ML Engineers get stuck building the wrong types of projects that never actually land them jobs. I’ll show you exactly what level of project you need for different roles — from entry-level positions to research teams at top AI companies."
+  }
+]
