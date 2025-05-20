@@ -5,7 +5,7 @@ function Header() {
     <header>
       <div className="text-center py-10">
         <Link to={'/'} className="font-bold text-4xl">MaxStyle.com</Link>
-        <p>Read More, Style More</p>
+        <p>Reading with Maximum Style</p>
       </div>
     </header>
   )
